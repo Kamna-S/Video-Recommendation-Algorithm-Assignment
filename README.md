@@ -61,5 +61,5 @@ This project is useful for platforms aiming to enhance user engagement with pers
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/social-video-recommender.git
-   cd social-video-recommender
+   git clone [https://github.com/your-repo/social-video-recommender.git
+   cd social-video-recommender](https://github.com/Kamna-S/Video-Recommendation-Algorithm-Assignment.git)
