@@ -61,4 +61,4 @@ This project is useful for platforms aiming to enhance user engagement with pers
 
 1. **Clone the Repository:**
    ```bash
-   git clone (https://github.com/Kamna-S/Video-Recommendation-Algorithm-Assignment.git)
+   git clone https://github.com/Kamna-S/Video-Recommendation-Algorithm-Assignment.git
