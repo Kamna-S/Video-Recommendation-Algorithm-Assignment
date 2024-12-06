@@ -63,6 +63,8 @@ This project is useful for platforms aiming to enhance user engagement with pers
    ```bash
    git clone https://github.com/Kamna-S/Video-Recommendation-Algorithm-Assignment.git
 ## Usage
+## Explanation Video
+You can watch an explanation video of this project here: [Explanation Video](https://drive.google.com/drive/folders/1Tvx43DLFXp9xXfqum3qeI3zbxiGHhr5r?usp=sharing)
 
 
 ## 1. Fetching Data
