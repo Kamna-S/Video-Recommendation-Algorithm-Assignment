@@ -1,0 +1,9 @@
+APIs:
+Get All Viewed Posts of User - https://api.socialverseapp.com/posts/view?page=1&page_size=1000&resonance_algorithm=resonance_algorithm_cjsvervb7dbhss8bdrj89s44jfjdbsjd0xnjkbvuire8zcjwerui3njfbvsujc5if
+Get All Liked Posts of Users - https://api.socialverseapp.com/posts/like?page=1&page_size=5&resonance_algorithm=resonance_algorithm_cjsvervb7dbhss8bdrj89s44jfjdbsjd0xnjkbvuire8zcjwerui3njfbvsujc5if
+Get All User Ratings - https://api.socialverseapp.com/posts/rating?page=1&page_size=5&resonance_algorithm=resonance_algorithm_cjsvervb7dbhss8bdrj89s44jfjdbsjd0xnjkbvuire8zcjwerui3njfbvsujc5if
+Get All Posts - https://api.socialverseapp.com/posts/summary/get?page=1&page_size=1000
+Get All Users - https://api.socialverseapp.com/users/get_all?page=1&page_size=1000
+
+For each API request, include the following header:
+Flic-Token: "flic_6e2d8d25dc29a4ddd382c2383a903cf4a688d1a117f6eb43b35a1e7fadbb84b8"
