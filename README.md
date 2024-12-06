@@ -1,4 +1,4 @@
-# Social Video Recommender System
+# Video Recommender System
 
 A Python-based recommendation system that fetches and preprocesses data from a social video API to provide personalized and popularity-based video recommendations.
 
